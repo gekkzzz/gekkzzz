@@ -1,5 +1,5 @@
 # About Me:
-🖥️ Newly skilled front-end developer, currently upskilling to full-stack (TypeScript · React · Node.js)<br>🌱 Currently learning: back-end development, REST APIs & deepening my React knowledge<br>🔍 Looking to collaborate on: open source front-end projects, data visualisation, or anything with a interesting UI challenge<br>🎬 Fun fact: when I'm not coding I'm editing video
+🖥️ Newly skilled front-end developer, currently upskilling to full-stack (TypeScript · React · Node.js)<br>🌱 Currently learning: back-end development, REST APIs & deepening my React knowledge<br>🔍 Looking to collaborate on: open source front-end projects, data visualisation, or anything with a interesting UI challenge
 
 
 ## Socials:
