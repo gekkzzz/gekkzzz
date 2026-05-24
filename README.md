@@ -6,12 +6,13 @@
  
 ---
  
-## 🌐 Socials
+## 📢 Socials
  
 | Platform | Link |
 |----------|------|
 | 🦋 Bluesky | [@gekkzzz.bsky.social](https://bsky.app/profile/gekkzzz.bsky.social) |
 | 💼 LinkedIn | [gekkzzz](https://linkedin.com/in/gekkzzz) |
+| 🌐 Website | [gekkzzz](https://gekkzzz.co.uk) |
  
 ---
  
