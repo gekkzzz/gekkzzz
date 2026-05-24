@@ -1,9 +1,71 @@
-# About Me:
-🖥️ Newly skilled front-end developer, currently upskilling to full-stack (TypeScript · React · Node.js)<br>🌱 Currently learning: back-end development, REST APIs & deepening my React knowledge<br>🔍 Looking to collaborate on: open source front-end projects, data visualisation, or anything with a interesting UI challenge
-
-
-## Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/gekkzzz.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gekkzzz) 
-
-# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat-square&logo=Adobe%20Audition&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+# Hi, I'm gekkzzz 👋
+ 
+🖥️ Front-end developer transitioning to full-stack — TypeScript · React · Node.js  
+🌱 Currently learning: back-end development, REST APIs & deepening my React knowledge  
+🔍 Open to collaborating on open-source front-end projects, data visualisation, or any interesting UI challenge
+ 
+---
+ 
+## 🌐 Socials
+ 
+| Platform | Link |
+|----------|------|
+| 🦋 Bluesky | [@gekkzzz.bsky.social](https://bsky.app/profile/gekkzzz.bsky.social) |
+| 💼 LinkedIn | [gekkzzz](https://linkedin.com/in/gekkzzz) |
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
+### 💻 Core
+| Technology | What I use it for |
+|------------|------------------|
+| 🟦 TypeScript | Primary language — typed JS for everything |
+| 🟨 JavaScript | Scripting, browser APIs, quick prototypes |
+| ⚛️ React | Component-driven UIs |
+| 💚 Vue.js | Alternative UI framework |
+| ▲ Next.js | Full-stack React apps & SSR |
+| 🟩 Node.js | Server-side JS & tooling |
+| 🌊 TailwindCSS | Utility-first styling |
+| 🌐 HTML5 | Semantic markup |
+| 🎨 CSS3 | Styling, animations, layouts |
+ 
+### 📚 Also know
+| Technology | Notes |
+|------------|-------|
+| 🐍 Python | Data work, scripting |
+| 📊 R | Statistical analysis & visualisation |
+| 🐘 PHP | Server-side scripting |
+| 🗄️ SQL | Querying & database management |
+ 
+### 🗃️ Databases & backend services
+| Technology | Notes |
+|------------|-------|
+| ⚡ Supabase | Auth, real-time DB, storage |
+ 
+### 🎬 Creative tools
+| Tool | Use |
+|------|-----|
+| 🖼️ Adobe Photoshop | Photo editing & compositing |
+| ✏️ Adobe Illustrator | Vector graphics & illustration |
+| 🎞️ Adobe Premiere Pro | Video editing |
+| 💫 Adobe After Effects | Motion graphics & VFX |
+| 🎙️ Adobe Audition | Audio editing |
+| 📷 Adobe Lightroom | Photo colour grading |
+ 
+### ⚙️ Infra & tooling
+| Tool | Use |
+|------|-----|
+| ⚡ Vite | Lightning-fast build tool & dev server |
+| ▲ Vercel | Deployment & hosting |
+| 🔀 Git | Version control |
+| 🐙 GitHub | Code hosting & collaboration |
+ 
+---
+ 
+## 📖 Guest Book
+ 
+Got something to say? Drop a note and sign my guest book — I'd love to hear from you! 👇
+ 
+[✍️ Sign the guest book](https://github.com/gekkzzz/gekkzzz/issues/new?title=Guest+Book&body=👋+Hey+gekkzzz%2C+I+just+stopped+by+to+say...)
+ 
