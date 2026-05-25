@@ -6,10 +6,11 @@
 
 ---
 
-## 🚧 Currently Working On
-| Project | Link |
-|----------|------|
-| Tape 'N' Torque Photography Portfolio (*Solo Developer*) | [Tape 'N' Torque](https://tape-n-torque-portfolio-website.vercel.app/)|
+## 👨‍💻 Currently Working On
+| Project | Link | Status |
+|----------|------|------|
+| Apple Styled Website (*Solo Developer*) | [Apple Styled Website](https://example-website-one-coral.vercel.app/))|✅|
+| Tape 'N' Torque Photography Portfolio (*Solo Developer*) | [Tape 'N' Torque](https://tape-n-torque-portfolio-website.vercel.app/)|🚧|
 
 ---
  
