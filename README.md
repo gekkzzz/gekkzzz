@@ -3,6 +3,7 @@
 🖥️ Front-end developer transitioning to full-stack — TypeScript · React · Node.js  
 🌱 Currently learning: back-end development, REST APIs & deepening my React knowledge  
 🔍 Open to collaborating on open-source front-end projects, data visualisation, or any interesting UI challenge
+🚧 Currently working on (*Solo Development*): [Tape 'N' Torque Website](https://tape-n-torque-portfolio-website.vercel.app/)
  
 ---
  
