@@ -7,7 +7,9 @@
 ---
 
 ## 🚧 Currently Working On
-🌐Solo Development: [Tape 'N' Torque](https://tape-n-torque-portfolio-website.vercel.app/)
+| Project | Link |
+|----------|------|
+| Tape 'N' Torque Photography Portfolio (*Solo Developer*) | [Tape 'N' Torque](https://tape-n-torque-portfolio-website.vercel.app/)|
 
 ---
  
